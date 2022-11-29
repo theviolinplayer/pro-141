@@ -1,0 +1,18 @@
+.heading{
+    width: 100%;
+}
+.copyright_footer{
+    position:fixed;
+    margin-bottom: 0px;
+    color:aquamarine;
+    background-color: blueviolet;
+    line-height: 3;
+    width:100%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    text-shadow: 5px 5px 2px black;
+    bottom:0;
+}
+canvas{
+    margin: 500px;
+}
